@@ -1,0 +1,24 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@font-face {
+    font-family: 'FonteLogo';
+    src: url("../_fonts/bubblegum-sans-regular.otf");
+}
+*/
+div#central {
+ margin: 110px  0px 0px 200px;
+}
+
+button#enviar {
+  margin: 20px 10px 0px 0px;
+}
+
+button#cancelar {
+  margin: 0px 1px 0px 10px;
+}
+
+div#msg {
+  width: 80%;
+  position: fixed;
+  text-align: center;
+}
+

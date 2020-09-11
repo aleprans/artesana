@@ -1,0 +1,21 @@
+div#central {
+    margin: 110px  0px 0px 200px;
+   }
+   
+   button#enviar {
+     margin: 20px 10px 0px 0px;
+   }
+   
+   button#cancelar {
+     margin: 0px 1px 0px 10px;
+   }
+   
+   div#msg {
+     width: 80%;
+     position: fixed;
+     text-align: center;
+   }
+
+   div#usu {
+       margin-right: 5px;
+   }

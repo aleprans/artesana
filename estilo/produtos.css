@@ -1,0 +1,54 @@
+h3#title {
+  font-size: 30px;
+}
+textarea#desc {
+  margin-bottom: 20px;
+ 
+}
+
+textarea#pec {
+  margin-bottom: 20px;
+  margin-right: 0px;
+ 
+}
+
+input#equip {
+  margin-bottom: 10px;
+}
+
+input#fim {
+  margin: 30px 0px 10px 0px;
+}
+
+label#lfim {
+  margin-bottom: 50px;
+}
+
+select#cliente {
+  margin-bottom: 20px;
+}
+
+div#central {
+ margin: 50px  0px 0px 100px;
+}
+
+button#enviar {
+  margin: 10px 10px 0px 0px;
+}
+
+button#cancelar {
+  margin: 10px 1px 0px 10px;
+}
+
+div#separador {
+  margin: 10px 0px;
+}
+
+input#addmat {
+  margin-top: 10px;
+}
+div#msg {
+  position: fixed;
+  width: 80%;
+  text-align: center;
+}
